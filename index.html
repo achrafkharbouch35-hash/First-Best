@@ -1,0 +1,834 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta name="theme-color" content="#f97316">
+  <meta name="description" content="FirstBest — Tech & Mobile. Smartphones, ordinateurs, tablettes, audio et accessoires au Maroc.">
+
+  <title>FirstBest — Tech & Mobile</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  <link
+    href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap"
+    rel="stylesheet"
+  >
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <!-- =========================
+       BACKGROUND
+  ========================== -->
+
+  <div class="noise"></div>
+
+
+  <!-- =========================
+       TOP BAR
+  ========================== -->
+
+  <div class="topbar">
+    <span>⚡ OFFRES EXCLUSIVES</span>
+    <span>🚚 Livraison partout au Maroc</span>
+    <span>📲 Commande 100% WhatsApp</span>
+  </div>
+
+
+  <!-- =========================
+       HEADER
+  ========================== -->
+
+  <header class="header" id="header">
+
+    <a href="#home" class="logo">
+      <i>C</i>
+
+      <span>
+        <b>FirstBest</b>
+        <small>TECH & MOBILE</small>
+      </span>
+    </a>
+
+    <nav class="desktop-nav">
+      <a href="#home">Accueil</a>
+      <a href="#shop">Boutique</a>
+      <a href="#categories">Catégories</a>
+      <a href="#deals">Deals</a>
+      <a href="#contact">Contact</a>
+    </nav>
+
+    <div class="actions">
+
+      <button class="round" id="searchBtn" aria-label="Rechercher">
+        ⌕
+      </button>
+
+      <button class="round favorite-button" id="favBtn" aria-label="Favoris">
+        ♡
+        <sup id="favCount">0</sup>
+      </button>
+
+      <button class="cart-button" id="cartBtn">
+        <span>Panier</span>
+        <b id="cartCount">0</b>
+      </button>
+
+      <button class="hamb" id="hamb" aria-label="Menu">
+        ☰
+      </button>
+
+    </div>
+
+  </header>
+
+
+  <!-- =========================
+       MOBILE NAVIGATION
+  ========================== -->
+
+  <div class="mobile-nav" id="mobileNav">
+
+    <a href="#home">Accueil</a>
+    <a href="#shop">Boutique</a>
+    <a href="#categories">Catégories</a>
+    <a href="#deals">Deals</a>
+    <a href="#contact">Contact</a>
+
+  </div>
+
+
+  <!-- =========================
+       SEARCH OVERLAY
+  ========================== -->
+
+  <div class="search-overlay" id="searchOverlay">
+
+    <div class="search-box">
+
+      <button id="closeSearch" class="search-close">
+        ×
+      </button>
+
+      <div class="kicker">
+        <span></span>
+        SEARCH FirstBest
+      </div>
+
+      <h2>Que recherchez-vous ?</h2>
+
+      <input
+        type="search"
+        id="searchInput"
+        placeholder="iPhone, laptop, casque..."
+        autocomplete="off"
+      >
+
+      <p>
+        Recherchez parmi nos smartphones, ordinateurs,
+        tablettes, accessoires et produits audio.
+      </p>
+
+    </div>
+
+  </div>
+
+
+  <main>
+
+    <!-- =========================
+         HERO
+    ========================== -->
+
+    <section class="hero" id="home">
+
+      <div class="hero-orb orb-one"></div>
+      <div class="hero-orb orb-two"></div>
+
+      <div class="hero-copy reveal">
+
+        <div class="kicker">
+          <span></span>
+          NEXT-GEN TECHNOLOGY
+        </div>
+
+        <h1>
+          Technology
+          <br>
+          <em>reimagined.</em>
+        </h1>
+
+        <p>
+          Smartphones, laptops, tablettes et accessoires
+          sélectionnés pour ceux qui veulent plus.
+          Découvrez. Choisissez. Commandez.
+        </p>
+
+        <div class="hero-buttons">
+
+          <a class="btn primary" href="#shop">
+            Explorer la boutique
+            <b>↗</b>
+          </a>
+
+          <a class="btn secondary" href="#categories">
+            Voir les catégories
+          </a>
+
+        </div>
+
+        <div class="trust">
+
+          <div>
+            <b>4.9/5</b>
+            <span>Clients satisfaits</span>
+          </div>
+
+          <div>
+            <b>24H</b>
+            <span>Réponse WhatsApp</span>
+          </div>
+
+          <div>
+            <b>100%</b>
+            <span>Commande directe</span>
+          </div>
+
+        </div>
+
+      </div>
+
+
+      <!-- HERO PRODUCTS -->
+
+      <div class="hero-stage reveal">
+
+        <div class="hero-circle circle-one"></div>
+        <div class="hero-circle circle-two"></div>
+
+        <div class="hero-glow"></div>
+
+        <div class="hero-product laptop">
+
+          <img
+            src="https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=900&q=85"
+            alt="Ordinateur portable"
+          >
+
+          <div class="hero-product-info">
+
+            <small>ULTRA PERFORMANCE</small>
+
+            <b>PowerBook Pro</b>
+
+          </div>
+
+        </div>
+
+
+        <div class="hero-product phone">
+
+          <img
+            src="https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?auto=format&fit=crop&w=700&q=85"
+            alt="Smartphone"
+          >
+
+        </div>
+
+
+        <div class="floating-card card-one">
+
+          <small>NEW DROP</small>
+
+          <b>Smartphones</b>
+
+          <span>Disponible</span>
+
+        </div>
+
+
+        <div class="floating-card card-two">
+
+          <b>-25%</b>
+
+          <span>sur une sélection</span>
+
+        </div>
+
+      </div>
+
+    </section>
+
+
+    <!-- =========================
+         TICKER
+    ========================== -->
+
+    <section class="ticker">
+
+      <div>
+
+        SMARTPHONES ✦ PC PORTABLES ✦ TABLETTES ✦ AUDIO ✦ GAMING ✦ ACCESSOIRES ✦
+        SMARTPHONES ✦ PC PORTABLES ✦ TABLETTES ✦ AUDIO ✦ GAMING ✦ ACCESSOIRES ✦
+
+      </div>
+
+    </section>
+
+
+    <!-- =========================
+         CATEGORIES
+    ========================== -->
+
+    <section class="section" id="categories">
+
+      <div class="heading reveal">
+
+        <div>
+
+          <div class="kicker">
+            <span></span>
+            SHOP BY CATEGORY
+          </div>
+
+          <h2>
+            Choose your
+            <em>world.</em>
+          </h2>
+
+        </div>
+
+        <p>
+          Une sélection pensée pour le travail,
+          le gaming, la création et votre quotidien.
+        </p>
+
+      </div>
+
+
+      <div class="cat-grid" id="catGrid"></div>
+
+    </section>
+
+
+    <!-- =========================
+         SHOP
+    ========================== -->
+
+    <section class="section shop" id="shop">
+
+      <div class="heading reveal">
+
+        <div>
+
+          <div class="kicker">
+            <span></span>
+            THE COLLECTION
+          </div>
+
+          <h2>
+            Trending
+            <em>now.</em>
+          </h2>
+
+        </div>
+
+        <button class="line-link" id="allProducts">
+          Tout voir ↗
+        </button>
+
+      </div>
+
+
+      <div class="toolbar reveal">
+
+        <div id="filters"></div>
+
+        <select id="sort">
+
+          <option value="featured">
+            Recommandés
+          </option>
+
+          <option value="priceAsc">
+            Prix croissant
+          </option>
+
+          <option value="priceDesc">
+            Prix décroissant
+          </option>
+
+          <option value="newest">
+            Nouveautés
+          </option>
+
+        </select>
+
+      </div>
+
+
+      <div class="products" id="products"></div>
+
+
+      <div class="empty" id="empty" hidden>
+
+        <strong>⌕</strong>
+
+        <h3>Rien trouvé</h3>
+
+        <p>
+          Essayez un autre terme ou une autre catégorie.
+        </p>
+
+      </div>
+
+    </section>
+
+
+    <!-- =========================
+         DEAL
+    ========================== -->
+
+    <section class="deal section" id="deals">
+
+      <div class="deal-inner reveal">
+
+        <div class="deal-content">
+
+          <div class="kicker">
+            <span></span>
+            FLASH DROP
+          </div>
+
+          <h2>
+            Big tech.
+            <br>
+            <em>Better prices.</em>
+          </h2>
+
+          <p>
+            Une sélection d'offres disponibles pendant
+            une durée limitée.
+          </p>
+
+          <a href="#shop" class="btn light-btn">
+            Découvrir les offres ↗
+          </a>
+
+        </div>
+
+
+        <div class="timer">
+
+          <small>
+            FIN DE L'OFFRE
+          </small>
+
+          <div class="timer-numbers">
+
+            <b id="dd">00</b>
+            <i>:</i>
+
+            <b id="hh">00</b>
+            <i>:</i>
+
+            <b id="mm">00</b>
+            <i>:</i>
+
+            <b id="ss">00</b>
+
+          </div>
+
+          <span>
+            JOURS &nbsp; HEURES &nbsp; MIN &nbsp; SEC
+          </span>
+
+        </div>
+
+      </div>
+
+    </section>
+
+
+    <!-- =========================
+         EXPERIENCE
+    ========================== -->
+
+    <section class="section experience">
+
+      <div class="heading reveal">
+
+        <div>
+
+          <div class="kicker">
+            <span></span>
+            THE FirstBest EXPERIENCE
+          </div>
+
+          <h2>
+            More than a
+            <em>store.</em>
+          </h2>
+
+        </div>
+
+      </div>
+
+
+      <div class="experience-grid">
+
+        <article class="experience-card reveal">
+
+          <span>01</span>
+
+          <div class="big-icon">
+            ✦
+          </div>
+
+          <h3>
+            Curated tech
+          </h3>
+
+          <p>
+            Des références choisies pour leur design,
+            leurs performances et leur rapport qualité-prix.
+          </p>
+
+        </article>
+
+
+        <article class="experience-card reveal">
+
+          <span>02</span>
+
+          <div class="big-icon">
+            ↯
+          </div>
+
+          <h3>
+            Instant contact
+          </h3>
+
+          <p>
+            Une question ? Écrivez-nous directement.
+            Pas de formulaire interminable.
+          </p>
+
+        </article>
+
+
+        <article class="experience-card reveal">
+
+          <span>03</span>
+
+          <div class="big-icon">
+            ◎
+          </div>
+
+          <h3>
+            Easy ordering
+          </h3>
+
+          <p>
+            Votre panier est préparé automatiquement
+            et envoyé au vendeur sur WhatsApp.
+          </p>
+
+        </article>
+
+      </div>
+
+    </section>
+
+
+    <!-- =========================
+         BRANDS
+    ========================== -->
+
+    <section class="marquee-brands">
+
+      <div>
+
+        APPLE　 SAMSUNG　 XIAOMI　 ASUS　 LENOVO　 HP　 JBL　 ANKER　 LOGITECH　
+        APPLE　 SAMSUNG　 XIAOMI　 ASUS　 LENOVO　 HP　 JBL　 ANKER　 LOGITECH　
+
+      </div>
+
+    </section>
+
+
+    <!-- =========================
+         CONTACT
+    ========================== -->
+
+    <section class="contact section" id="contact">
+
+      <div class="contact-inner reveal">
+
+        <div>
+
+          <div class="kicker">
+            <span></span>
+            READY WHEN YOU ARE
+          </div>
+
+          <h2>
+            Let's talk
+            <br>
+            <em>tech.</em>
+          </h2>
+
+        </div>
+
+
+        <div>
+
+          <p>
+            Besoin d'un conseil, d'un prix ou
+            d'une disponibilité ? Notre WhatsApp est ouvert.
+          </p>
+
+          <a
+            id="contactWa"
+            class="wa-btn"
+            target="_blank"
+            rel="noopener"
+          >
+            WhatsApp
+            <b>↗</b>
+          </a>
+
+        </div>
+
+      </div>
+
+    </section>
+
+  </main>
+
+
+  <!-- =========================
+       FOOTER
+  ========================== -->
+
+  <footer>
+
+    <div class="footer-top">
+
+      <div class="footer-brand">
+
+        <a href="#home" class="logo">
+
+          <i>C</i>
+
+          <span>
+            <b>FirstBest</b>
+            <small>TECH & MOBILE</small>
+          </span>
+
+        </a>
+
+        <p>
+          Future-ready technology for everyday life.
+        </p>
+
+      </div>
+
+
+      <div>
+
+        <h4>SHOP</h4>
+
+        <a href="#shop">
+          Produits
+        </a>
+
+        <a href="#categories">
+          Catégories
+        </a>
+
+        <a href="#deals">
+          Promotions
+        </a>
+
+      </div>
+
+
+      <div>
+
+        <h4>CONTACT</h4>
+
+        <a
+          id="footerWa"
+          target="_blank"
+          rel="noopener"
+        >
+          WhatsApp
+        </a>
+
+        <span>
+          Lun — Sam · 09:00 — 19:00
+        </span>
+
+      </div>
+
+
+      <div>
+
+        <h4>SOCIAL</h4>
+
+        <a href="#instagram">
+          Instagram
+        </a>
+
+        <a href="#" onclick="return false;">
+          Facebook
+        </a>
+
+        <a href="#" onclick="return false;">
+          TikTok
+        </a>
+
+      </div>
+
+    </div>
+
+
+    <div class="footer-bottom">
+
+      <span>
+        © 2026 FirstBest
+      </span>
+
+      <span>
+        Aucun paiement en ligne — commande finalisée directement avec le vendeur.
+      </span>
+
+    </div>
+
+  </footer>
+
+
+  <!-- =========================
+       CART DRAWER
+  ========================== -->
+
+  <aside class="drawer" id="drawer">
+
+    <div class="drawer-head">
+
+      <div>
+
+        <div class="kicker">
+          <span></span>
+          YOUR SELECTION
+        </div>
+
+        <h3>
+          Panier
+        </h3>
+
+      </div>
+
+      <button id="closeCart">
+        ×
+      </button>
+
+    </div>
+
+
+    <div class="cart-list" id="cartList"></div>
+
+
+    <div class="cart-empty" id="cartEmpty">
+
+      <b>🛒</b>
+
+      <h3>
+        Votre panier est vide
+      </h3>
+
+      <p>
+        Ajoutez des produits pour préparer votre commande.
+      </p>
+
+    </div>
+
+
+    <div class="cart-bottom" id="cartBottom">
+
+      <div class="total">
+
+        <span>
+          Total estimé
+        </span>
+
+        <b id="total">
+          0 DH
+        </b>
+
+      </div>
+
+      <p>
+        Aucun paiement ici.
+        Votre commande sera envoyée au vendeur via WhatsApp.
+      </p>
+
+      <a
+        id="orderWa"
+        class="btn primary full"
+        target="_blank"
+        rel="noopener"
+      >
+        Commander sur WhatsApp ↗
+      </a>
+
+      <button id="clearCart">
+        Vider le panier
+      </button>
+
+    </div>
+
+  </aside>
+
+
+  <div class="backdrop" id="backdrop"></div>
+
+
+  <!-- =========================
+       PRODUCT MODAL
+  ========================== -->
+
+  <div class="modal" id="modal">
+
+    <div class="modal-card">
+
+      <button class="modal-close" id="modalClose">
+        ×
+      </button>
+
+      <div id="modalBody"></div>
+
+    </div>
+
+  </div>
+
+
+  <!-- =========================
+       TOAST
+  ========================== -->
+
+  <div class="toast" id="toast">
+    Ajouté au panier ✓
+  </div>
+
+
+  <script src="script.js"></script>
+
+</body>
+</html>
