@@ -364,7 +364,7 @@ const products = [
     oldPrice: 2790,
     badge: "PACK",
     newest: true,
-    image: "https://images.unsplash.com/photo-1557597774-9d273605dfa9?auto=format&fit=crop&w=900&q=85",
+    image: "pack1.jpg",
     description: "Solution complète de surveillance pour sécuriser efficacement votre maison ou votre commerce."
   },
 
@@ -377,7 +377,7 @@ const products = [
     oldPrice: 4490,
     badge: "PRO",
     newest: true,
-    image: "https://images.unsplash.com/photo-1557862921-37829c790f19?auto=format&fit=crop&w=900&q=85",
+    image: "pack2.jpg",
     description: "Pack de surveillance complet avec solution adaptée aux besoins professionnels."
   },
 
@@ -390,7 +390,7 @@ const products = [
     oldPrice: 5990,
     badge: "PREMIUM",
     newest: true,
-    image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=900&q=85",
+    image: "pack3.jpg",
     description: "Solution premium de sécurité et de surveillance pour les installations exigeantes."
   },
 
@@ -403,7 +403,7 @@ const products = [
     oldPrice: 7990,
     badge: "BUSINESS",
     newest: false,
-    image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=900&q=85",
+    image: "pack4.jpg",
     description: "Solution complète pensée pour les commerces, bureaux et installations professionnelles."
   },
 
