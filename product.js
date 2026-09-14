@@ -289,7 +289,7 @@ const products = [
 
   {
     id:26,
-    name:"Pack Surveillance Essentiel",
+    name:"Pack Caméra de Surveillance Dahua – 4 Caméras HDCVI Smart Dual Light",
     brand:"FirstBest Security",
     category:"Packs de Surveillance",
     price:2490,
