@@ -1,0 +1,428 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta name="theme-color" content="#070b12">
+  <meta
+    name="description"
+    content="FirstBest — Détails du produit"
+  >
+
+  <title>Produit — FirstBest</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  <link
+    href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap"
+    rel="stylesheet"
+  >
+
+  <!-- Ton CSS actuel -->
+  <link rel="stylesheet" href="style.css">
+
+  <!-- CSS uniquement pour la page produit -->
+  <link rel="stylesheet" href="product.css">
+</head>
+
+<body>
+
+  <div class="noise"></div>
+
+  <!-- HEADER -->
+  <header class="product-header">
+
+    <a href="index.html" class="product-logo">
+      <i>C</i>
+
+      <span>
+        <b>FirstBest</b>
+        <small>TECH & MOBILE</small>
+      </span>
+    </a>
+
+    <div class="product-header-actions">
+
+      <a href="index.html#shop" class="back-shop">
+        ← Retour à la boutique
+      </a>
+
+      <a href="index.html#shop" class="mini-cart">
+        🛒 Boutique
+      </a>
+
+    </div>
+
+  </header>
+
+
+  <!-- PAGE PRODUIT -->
+  <main class="product-page">
+
+    <div class="product-container">
+
+      <!-- BREADCRUMB -->
+      <div class="product-breadcrumb">
+        <a href="index.html">Accueil</a>
+        <span>›</span>
+        <a href="index.html#shop">Boutique</a>
+        <span>›</span>
+        <strong id="breadcrumbProduct">Produit</strong>
+      </div>
+
+
+      <!-- PRODUIT -->
+      <section class="product-main">
+
+        <!-- IMAGE -->
+        <div class="product-visual">
+
+          <div class="product-image-card">
+
+            <div class="product-badge" id="productBadge">
+              NEW
+            </div>
+
+            <div class="product-image-glow"></div>
+
+            <img
+              id="productImage"
+              src=""
+              alt="Produit FirstBest"
+            >
+
+          </div>
+
+          <div class="image-caption">
+            <span>FIRSTBEST</span>
+            <b>TECH & MOBILE</b>
+          </div>
+
+        </div>
+
+
+        <!-- INFORMATIONS PRINCIPALES -->
+        <div class="product-info">
+
+          <div class="product-kicker">
+            <span></span>
+            <span id="productCategory">CATÉGORIE</span>
+          </div>
+
+          <div class="product-brand" id="productBrand">
+            BRAND
+          </div>
+
+          <h1 id="productName">
+            Produit
+          </h1>
+
+          <p class="product-description" id="productDescription">
+            Description du produit.
+          </p>
+
+
+          <!-- PRIX -->
+          <div class="product-price-area">
+
+            <div class="product-price" id="productPrice">
+              0 DH
+            </div>
+
+            <div class="product-old-price" id="productOldPrice">
+              0 DH
+            </div>
+
+            <div class="product-discount" id="productDiscount">
+              -0%
+            </div>
+
+          </div>
+
+
+          <!-- DISPONIBILITÉ -->
+          <div class="availability">
+            <span class="availability-dot"></span>
+
+            <div>
+              <strong>Disponible</strong>
+              <small>Commande directe via WhatsApp</small>
+            </div>
+          </div>
+
+
+          <!-- ACTIONS -->
+          <div class="product-actions">
+
+            <div class="quantity-box">
+
+              <button id="minusBtn" type="button">
+                −
+              </button>
+
+              <strong id="quantity">
+                1
+              </strong>
+
+              <button id="plusBtn" type="button">
+                +
+              </button>
+
+            </div>
+
+
+            <button
+              id="addProductBtn"
+              class="product-add-btn"
+              type="button"
+            >
+              Ajouter au panier
+              <span>+</span>
+            </button>
+
+          </div>
+
+
+          <!-- WHATSAPP -->
+          <a
+            id="productWhatsApp"
+            class="product-wa-btn"
+            href="#"
+            target="_blank"
+            rel="noopener"
+          >
+            Commander / demander le prix sur WhatsApp
+            <b>↗</b>
+          </a>
+
+
+          <!-- MINI FEATURES -->
+          <div class="product-features-mini">
+
+            <div>
+              <span>🚚</span>
+              <div>
+                <strong>Livraison</strong>
+                <small>Partout au Maroc</small>
+              </div>
+            </div>
+
+            <div>
+              <span>💬</span>
+              <div>
+                <strong>WhatsApp</strong>
+                <small>Commande directe</small>
+              </div>
+            </div>
+
+            <div>
+              <span>⚡</span>
+              <div>
+                <strong>Réponse</strong>
+                <small>Rapide</small>
+              </div>
+            </div>
+
+          </div>
+
+        </div>
+
+      </section>
+
+
+      <!-- INFORMATIONS -->
+      <section class="product-details-section">
+
+        <div class="details-heading">
+
+          <div>
+            <div class="product-kicker">
+              <span></span>
+              PRODUCT DETAILS
+            </div>
+
+            <h2>
+              Tout savoir sur<br>
+              <em id="detailsProductName">
+                ce produit.
+              </em>
+            </h2>
+          </div>
+
+          <p>
+            Retrouvez ici les informations essentielles,
+            les points forts et le profil de ce produit.
+          </p>
+
+        </div>
+
+
+        <div class="details-grid">
+
+          <!-- DESCRIPTION -->
+          <article class="detail-card detail-large">
+
+            <div class="detail-number">
+              01
+            </div>
+
+            <div class="detail-icon">
+              ✦
+            </div>
+
+            <h3>
+              Description
+            </h3>
+
+            <p id="longDescription">
+              —
+            </p>
+
+          </article>
+
+
+          <!-- POINTS FORTS -->
+          <article class="detail-card">
+
+            <div class="detail-number">
+              02
+            </div>
+
+            <div class="detail-icon">
+              ◎
+            </div>
+
+            <h3>
+              Points forts
+            </h3>
+
+            <ul id="highlights">
+            </ul>
+
+          </article>
+
+
+          <!-- PROFIL -->
+          <article class="detail-card">
+
+            <div class="detail-number">
+              03
+            </div>
+
+            <div class="detail-icon">
+              ↯
+            </div>
+
+            <h3>
+              Profil produit
+            </h3>
+
+            <div class="profile-list">
+
+              <div>
+                <span>Marque</span>
+                <strong id="infoBrand">—</strong>
+              </div>
+
+              <div>
+                <span>Catégorie</span>
+                <strong id="infoCategory">—</strong>
+              </div>
+
+              <div>
+                <span>Référence</span>
+                <strong id="infoReference">—</strong>
+              </div>
+
+            </div>
+
+          </article>
+
+
+          <!-- COMMANDE -->
+          <article class="detail-card detail-order">
+
+            <div class="detail-number">
+              04
+            </div>
+
+            <div class="detail-icon">
+              🛒
+            </div>
+
+            <h3>
+              Commande simple
+            </h3>
+
+            <p>
+              Aucun paiement en ligne.
+              Ajoutez le produit au panier puis envoyez
+              votre sélection directement au vendeur via WhatsApp.
+            </p>
+
+            <a href="index.html#shop" class="detail-back">
+              Continuer mes achats ↗
+            </a>
+
+          </article>
+
+        </div>
+
+      </section>
+
+
+      <!-- BANDEAU -->
+      <section class="product-contact-banner">
+
+        <div>
+
+          <div class="product-kicker">
+            <span></span>
+            FIRSTBEST
+          </div>
+
+          <h2>
+            Une question sur<br>
+            <em id="bannerProductName">ce produit ?</em>
+          </h2>
+
+        </div>
+
+        <a
+          id="bannerWhatsApp"
+          href="#"
+          target="_blank"
+          rel="noopener"
+        >
+          Nous contacter sur WhatsApp ↗
+        </a>
+
+      </section>
+
+
+      <!-- RETOUR -->
+      <div class="product-bottom">
+
+        <a href="index.html#shop">
+          ← Retour à tous les produits
+        </a>
+
+      </div>
+
+    </div>
+
+  </main>
+
+
+  <!-- TOAST -->
+  <div id="productToast" class="product-toast">
+    Produit ajouté au panier ✓
+  </div>
+
+
+  <script src="product.js"></script>
+
+</body>
+</html>
