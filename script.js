@@ -1252,11 +1252,12 @@ function bindProductButtons() {
         "click",
         () => {
 
-          openProductModal(
-            Number(
-              button.dataset.details
-            )
+          const id = Number(
+            button.dataset.details
           );
+
+          window.location.href =
+            `product.html?id=${id}`;
 
         }
       );
@@ -1284,8 +1285,6 @@ function bindProductButtons() {
     });
 
 }
-
-
 /* =====================================================
    CART
    ===================================================== */
