@@ -437,8 +437,8 @@ Pack complet de vidéosurveillance professionnel avec technologie <strong>3K Cou
     name:"PACK DAHUA 5MP WIZSENSE ORIGINAL – COULEUR, IMAGE & AUDIO",
     brand:"FirstBest Security",
     category:"Packs de Surveillance",
-    price:1300,
-    oldPrice:1800,
+    price:2400,
+    oldPrice:2779,
     badge:"premium",
     image:"pack6.jpg",
     description:`
@@ -492,8 +492,8 @@ Pack complet de vidéosurveillance solaire, comprenant tout le nécessaire pour 
     name:"IMOU Dual Lens – Caméra Extérieure 24/7 avec Batterie + Panneau Solaire",
     brand:"IMOU",
     category:"Caméras de Surveillance",
-    price:1300,
-    oldPrice:1500,
+    price:1400,
+    oldPrice:1600,
     badge:"OUTDOOR",
     image:"camera2.jpg",
     description:"Caméra de surveillance conçue pour une installation extérieure."
