@@ -492,8 +492,8 @@ Pack complet de vidéosurveillance solaire, comprenant tout le nécessaire pour 
     name:"IMOU Dual Lens – Caméra Extérieure 24/7 avec Batterie + Panneau Solaire",
     brand:"IMOU",
     category:"Caméras de Surveillance",
-    price:790,
-    oldPrice:890,
+    price:1300,
+    oldPrice:1500,
     badge:"OUTDOOR",
     image:"camera2.jpg",
     description:"Caméra de surveillance conçue pour une installation extérieure."
