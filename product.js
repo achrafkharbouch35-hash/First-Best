@@ -463,25 +463,39 @@ Pack complet de vidéosurveillance professionnel <strong>Dahua 5MP WizSense Orig
    
   {
     id:30,
-    name:"Caméra Wi-Fi Intérieure",
-    brand:"TP-Link",
+    name:"Pack de surveillance solaire — Sécurité & autonomie",
+    brand:"Multiscreen Camera",
     category:"Caméras de Surveillance",
-    price:590,
-    oldPrice:690,
-    badge:"Wi-Fi",
-    image:"https://images.unsplash.com/photo-1557324232-b8917d3c3dcb?auto=format&fit=crop&w=900&q=85",
-    description:"Caméra connectée destinée à la surveillance intérieure avec accès à distance."
+    price:1300,
+    oldPrice:1500,
+    badge:"solaire",
+    image:"camera1.jpg",
+    description:`
+Pack complet de vidéosurveillance solaire, comprenant tout le nécessaire pour réaliser une installation de surveillance extérieure autonome : caméra de surveillance avec vision étendue, deux panneaux solaires pour l'alimentation du système et les accessoires nécessaires à l'installation.
+
+<br><br>
+
+<strong>📦 Contenu:</strong>
+
+<br><br>
+
+📹 1 × Caméra de surveillance solaire <strong>multifonction</strong><br>
+☀️ 2 × Panneaux solaires <strong>pour alimentation autonome</strong><br>
+🔋 1 × Système d'alimentation <strong>solaire</strong><br>
+🔌 1 × Câblage nécessaire <strong>à l'installation</strong><br>
+🔩 Connecteurs et accessoires <strong>nécessaires</strong>
+`
   },
 
   {
     id:31,
-    name:"Caméra Extérieure",
-    brand:"Hikvision",
+    name:"IMOU Dual Lens – Caméra Extérieure 24/7 avec Batterie + Panneau Solaire",
+    brand:"IMOU",
     category:"Caméras de Surveillance",
     price:790,
     oldPrice:890,
     badge:"OUTDOOR",
-    image:"https://images.unsplash.com/photo-1580982327559-c1202864ebd9?auto=format&fit=crop&w=900&q=85",
+    image:"camera2.jpg",
     description:"Caméra de surveillance conçue pour une installation extérieure."
   },
 
@@ -493,7 +507,7 @@ Pack complet de vidéosurveillance professionnel <strong>Dahua 5MP WizSense Orig
     price:890,
     oldPrice:990,
     badge:"FULL HD",
-    image:"https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=900&q=85",
+    image:"",
     description:"Caméra IP Full HD pour une surveillance fiable et une visualisation claire."
   },
 
@@ -505,7 +519,7 @@ Pack complet de vidéosurveillance professionnel <strong>Dahua 5MP WizSense Orig
     price:1090,
     oldPrice:1290,
     badge:"PTZ",
-    image:"https://images.unsplash.com/photo-1563013544-824ae1b704d3?auto=format&fit=crop&w=900&q=85",
+    image:"",
     description:"Caméra motorisée connectée avec contrôle à distance."
   },
 
@@ -517,7 +531,7 @@ Pack complet de vidéosurveillance professionnel <strong>Dahua 5MP WizSense Orig
     price:3490,
     oldPrice:3990,
     badge:"CITY",
-    image:"https://images.unsplash.com/photo-1596727147705-61a532a659bd?auto=format&fit=crop&w=900&q=85",
+    image:"",
     description:"Trottinette électrique pratique pour les déplacements urbains quotidiens."
   },
 
