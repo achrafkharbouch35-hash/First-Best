@@ -297,7 +297,7 @@ const products = [
     badge:"PACK",
     image:"pack1.jpg",
     description:`
-Pack complet de vidéosurveillance professionnel, comprenant tout le nécessaire pour réaliser une installation CCTV : enregistreur vidéo numérique Dahua HDCVI WizSense, 4 caméras Dahua 5MP HDCVI Smart Dual Light, alimentation centralisée WDLink 12V 24CH, câble coaxial WDLink RG59 + DC + Jacket de 100 mètres, câble HDMI 2.0 4K, disque dur Western Digital 500GB, ainsi que les connecteurs BNC et connecteurs d'alimentation DC.
+Pack complet de vidéosurveillance professionnel, comprenant tout le nécessaire pour réaliser une installation CCTV
 
 <br><br>
 
@@ -355,7 +355,7 @@ Pack complet de vidéosurveillance professionnel, comprenant tout le nécessaire
     badge:"",
     image:"pack3.jpg",
     description:`
-Pack complet de vidéosurveillance professionnel, comprenant tout le nécessaire pour réaliser une installation CCTV : enregistreur vidéo numérique hybride Hikvision <strong>Turbo HD</strong>, 4 caméras Hikvision <strong>2MP Turbo HD</strong>, alimentation centralisée WDLink 12V 24CH, câble coaxial WDLink RG59 + DC + Jacket de 100 mètres, câble HDMI 2.0 4K, disque dur Western Digital 500GB, ainsi que les connecteurs BNC et connecteurs d'alimentation DC.
+Pack complet de vidéosurveillance professionnel, comprenant tout le nécessaire pour réaliser une installation CCTV.
 
 <br><br>
 
@@ -384,8 +384,7 @@ Pack complet de vidéosurveillance professionnel, comprenant tout le nécessaire
     badge:"",
     image:"pack4.jpg",
     description:`
-Pack complet de vidéosurveillance professionnel avec technologie <strong>3K Couleur</strong>, conçu pour assurer une surveillance haute définition avec une excellente qualité d'image, y compris en conditions de faible luminosité. Le pack comprend les équipements essentiels pour réaliser une installation CCTV complète.
-
+Pack complet de vidéosurveillance professionnel, comprenant tout le nécessaire pour réaliser une installation CCTV.
 <br><br>
 
 <strong>📦 Contenu du pack :</strong>
@@ -413,8 +412,7 @@ Pack complet de vidéosurveillance professionnel avec technologie <strong>3K Cou
     badge:"BUSINESS",
     image:"pack5.jpg",
     description:`
-Pack complet de vidéosurveillance professionnel avec technologie <strong>3K Couleur</strong>, conçu pour assurer une surveillance haute définition avec une excellente qualité d'image, y compris en conditions de faible luminosité. Le pack comprend les équipements essentiels pour réaliser une installation CCTV complète.
-
+Pack complet de vidéosurveillance professionnel, comprenant tout le nécessaire pour réaliser une installation CCTV.
 <br><br>
 
 <strong>📦 Contenu du pack :</strong>
@@ -442,8 +440,7 @@ Pack complet de vidéosurveillance professionnel avec technologie <strong>3K Cou
     badge:"premium",
     image:"pack6.jpg",
     description:`
-Pack complet de vidéosurveillance professionnel <strong>Dahua 5MP WizSense Original</strong>, comprenant tout le nécessaire pour réaliser une installation CCTV : système haute résolution 5MP avec <strong>vision couleur, image et audio</strong>, enregistreur vidéo numérique Dahua HDCVI WizSense, caméras Dahua originales, alimentation centralisée, câble coaxial, câble HDMI 4K, disque dur et connecteurs nécessaires à l'installation.
-
+Pack complet de vidéosurveillance professionnel, comprenant tout le nécessaire pour réaliser une installation CCTV.
 <br><br>
 
 <strong>📦 Contenu du pack :</strong>
@@ -471,8 +468,7 @@ Pack complet de vidéosurveillance professionnel <strong>Dahua 5MP WizSense Orig
     badge:"solaire",
     image:"camera1.jpg",
     description:`
-Pack complet de vidéosurveillance solaire, comprenant tout le nécessaire pour réaliser une installation de surveillance extérieure autonome : caméra de surveillance avec vision étendue, deux panneaux solaires pour l'alimentation du système et les accessoires nécessaires à l'installation.
-
+Pack complet de vidéosurveillance professionnel, comprenant tout le nécessaire pour réaliser une installation CCTV.
 <br><br>
 
 <strong>📦 Contenu:</strong>
