@@ -289,7 +289,7 @@ const products = [
 
   {
     id:26,
-    name:"Pack Surveillance Essentiel",
+    name:"Pack vidéosurveillance Dahua 5MP Couleur— 4 caméras",
     brand:"FirstBest Security",
     category:"Packs de Surveillance",
     price:1650,
@@ -305,10 +305,10 @@ Pack complet de vidéosurveillance professionnel, comprenant tout le nécessaire
 
 <br><br>
 
-🎥 4 × Caméras Dahua HDCVI <strong>5MP Smart Dual Light</strong><br>
+🎥 4 × Caméras Dahua HDCVI lentille 2,8 <strong>5MP Smart Dual Light</strong><br>
 🖥️ 1 × Enregistreur vidéo Dahua <strong>HDCVI WizSense</strong><br>
 ⚡ 1 × Alimentation <strong>WDLink 10A 12V 24CH</strong><br>
-🔌 1 × Câble coaxial <strong>RG45 1M + DC + Jacket – 20M</strong><br>
+🔌 1 × Câble coaxial <strong>RG45 1M + DC + Jacker RG59 – 20M</strong><br>
 📺 1 × Câble <strong>HDMI 2.0 4K 1,5M</strong><br>
 💾 1 × Disque dur <strong>WD 500GB</strong><br>
 🔩 Connecteurs <strong>BNC</strong><br>
@@ -318,40 +318,149 @@ Pack complet de vidéosurveillance professionnel, comprenant tout le nécessaire
 
   {
     id:27,
-    name:"Pack Surveillance Pro",
+    name:"Pack vidéosurveillance Dahua 2MP Couleur — 4 caméras",
     brand:"FirstBest Security",
     category:"Packs de Surveillance",
-    price:3990,
-    oldPrice:4490,
-    badge:"PRO",
+    price:1300,
+    oldPrice:1879,
+    badge:"",
     image:"pack2.jpg",
-    description:"Pack de surveillance complet avec solution adaptée aux besoins professionnels."
+    description:`
+Pack complet de vidéosurveillance professionnel, comprenant tout le nécessaire pour réaliser une installation CCTV : enregistreur vidéo numérique Dahua HDCVI WizSense, 4 caméras Dahua 5MP HDCVI Smart Dual Light, alimentation centralisée WDLink 12V 24CH, câble coaxial WDLink RG59 + DC + Jacket de 100 mètres, câble HDMI 2.0 4K, disque dur Western Digital 500GB, ainsi que les connecteurs BNC et connecteurs d'alimentation DC.
+
+<br><br>
+
+<strong>📦 Contenu du pack :</strong>
+
+<br><br>
+
+🎥 4 × Caméras Dahua HDCVI lentille 2,8 <strong>2MP Smart Dual Light</strong><br>
+🖥️ 1 × Enregistreur vidéo Dahua <strong>HDCVI WizSense</strong><br>
+⚡ 1 × Alimentation <strong>WDLink 10A 12V 24CH</strong><br>
+🔌 1 × Câble coaxial <strong>RG45 1M + DC + Jacker RG59 – 20M</strong><br>
+📺 1 × Câble <strong>HDMI 2.0 4K 1,5M</strong><br>
+💾 1 × Disque dur <strong>WD 500GB</strong><br>
+🔩 Connecteurs <strong>BNC</strong><br>
+🔋 Connecteurs d'alimentation <strong>DC</strong>
+`
   },
 
   {
     id:28,
-    name:"Pack Surveillance Premium",
+    name:"Pack Hikvision 2MP lentille 2,8  – 4 Caméras Turbo HD",
     brand:"FirstBest Security",
     category:"Packs de Surveillance",
-    price:5490,
-    oldPrice:5990,
-    badge:"PREMIUM",
+    price:1300,
+    oldPrice:1879,
+    badge:"",
     image:"pack3.jpg",
-    description:"Solution premium de sécurité et de surveillance pour les installations exigeantes."
+    description:`
+Pack complet de vidéosurveillance professionnel, comprenant tout le nécessaire pour réaliser une installation CCTV : enregistreur vidéo numérique hybride Hikvision <strong>Turbo HD</strong>, 4 caméras Hikvision <strong>2MP Turbo HD</strong>, alimentation centralisée WDLink 12V 24CH, câble coaxial WDLink RG59 + DC + Jacket de 100 mètres, câble HDMI 2.0 4K, disque dur Western Digital 500GB, ainsi que les connecteurs BNC et connecteurs d'alimentation DC.
+
+<br><br>
+
+<strong>📦 Contenu du pack :</strong>
+
+<br><br>
+
+🎥 4 × Caméras Hikvision <strong>2MP Turbo HD</strong><br>
+🖥️ 1 × Enregistreur vidéo hybride Hikvision <strong>Turbo HD 5-in-1</strong><br>
+⚡ 1 × Alimentation <strong>WDLink 10A 12V 24CH</strong><br>
+🔌 1 × Câble coaxial <strong>RG45 1M + DC + Jacket RG59 – 20M</strong><br>
+📺 1 × Câble <strong>HDMI 2.0 4K 1,5M</strong><br>
+💾 1 × Disque dur <strong>WD 500GB</strong><br>
+🔩 Connecteurs <strong>BNC</strong><br>
+🔋 Connecteurs d'alimentation <strong>DC</strong>
+`
   },
 
   {
     id:29,
-    name:"Pack Surveillance Business",
+    name:"Pack Hikvision 3K lentille 2,8 – 4 Caméras",
     brand:"FirstBest Security",
     category:"Packs de Surveillance",
-    price:7490,
-    oldPrice:7990,
-    badge:"BUSINESS",
+    price:1300,
+    oldPrice:1800,
+    badge:"",
     image:"pack4.jpg",
-    description:"Solution complète pensée pour les commerces, bureaux et installations professionnelles."
+    description:`
+Pack complet de vidéosurveillance professionnel avec technologie <strong>3K Couleur</strong>, conçu pour assurer une surveillance haute définition avec une excellente qualité d'image, y compris en conditions de faible luminosité. Le pack comprend les équipements essentiels pour réaliser une installation CCTV complète.
+
+<br><br>
+
+<strong>📦 Contenu du pack :</strong>
+
+<br><br>
+
+🎥 4 × Caméras <strong>3K Couleur</strong><br>
+🖥️ 1 × Enregistreur vidéo numérique <strong>3K</strong><br>
+⚡ 1 × Alimentation centralisée <strong>10A 12V</strong><br>
+🔌 1 × Câble coaxial <strong>RG45 1M + DC + Jacke RG59 – 20M</strong><br>
+📺 1 × Câble <strong>HDMI 2.0 4K – 1,5M</strong><br>
+💾 1 × Disque dur <strong>500GB</strong><br>
+🔩 Connecteurs <strong>BNC</strong><br>
+🔋 Connecteurs d'alimentation <strong>DC</strong>
+`
   },
 
+ {
+    id:46,
+    name:"Pack Caméra 3K Full Color lentille 3,6 – Image & Audio",
+    brand:"FirstBest Security",
+    category:"Packs de Surveillance",
+    price:1300,
+    oldPrice:1800,
+    badge:"BUSINESS",
+    image:"pack5.jpg",
+    description:`
+Pack complet de vidéosurveillance professionnel avec technologie <strong>3K Couleur</strong>, conçu pour assurer une surveillance haute définition avec une excellente qualité d'image, y compris en conditions de faible luminosité. Le pack comprend les équipements essentiels pour réaliser une installation CCTV complète.
+
+<br><br>
+
+<strong>📦 Contenu du pack :</strong>
+
+<br><br>
+
+🎥 4 × Caméras <strong>3K Couleur</strong><br>
+🖥️ 1 × Enregistreur vidéo numérique <strong>3K</strong><br>
+⚡ 1 × Alimentation centralisée <strong> 10A 12V</strong><br>
+🔌 1 × Câble coaxial <strong>RG45 1M + DC + Jacke RG59 – 20M</strong><br>
+📺 1 × Câble <strong>HDMI 2.0 4K – 1,5M</strong><br>
+💾 1 × Disque dur <strong>500GB</strong><br>
+🔩 Connecteurs <strong>BNC</strong><br>
+🔋 Connecteurs d'alimentation <strong>DC</strong>
+`
+  },
+
+ {
+    id:47,
+    name:"PACK DAHUA 5MP WIZSENSE ORIGINAL – COULEUR, IMAGE & AUDIO",
+    brand:"FirstBest Security",
+    category:"Packs de Surveillance",
+    price:1300,
+    oldPrice:1800,
+    badge:"premium",
+    image:"pack6.jpg",
+    description:`
+Pack complet de vidéosurveillance professionnel <strong>Dahua 5MP WizSense Original</strong>, comprenant tout le nécessaire pour réaliser une installation CCTV : système haute résolution 5MP avec <strong>vision couleur, image et audio</strong>, enregistreur vidéo numérique Dahua HDCVI WizSense, caméras Dahua originales, alimentation centralisée, câble coaxial, câble HDMI 4K, disque dur et connecteurs nécessaires à l'installation.
+
+<br><br>
+
+<strong>📦 Contenu du pack :</strong>
+
+<br><br>
+
+🎥 4 × Caméras Dahua Original <strong>5MP WizSense Full Color – Image & Audio</strong><br>
+🖥️ 1 × Enregistreur vidéo Dahua <strong>HDCVI WizSense</strong><br>
+⚡ 1 × Alimentation centralisée <strong>WDLink 12V</strong><br>
+🔌 1 × Câble coaxial <strong>WDLink RG45 1M + DC + Jacket RG59 20M</strong><br>
+📺 1 × Câble <strong>HDMI 2.0 4K 1,5M</strong><br>
+💾 1 × Disque dur <strong>500GB</strong><br>
+🔩 Connecteurs <strong>BNC</strong><br>
+🔋 Connecteurs d'alimentation <strong>DC</strong>
+`
+  },
+   
   {
     id:30,
     name:"Caméra Wi-Fi Intérieure",
