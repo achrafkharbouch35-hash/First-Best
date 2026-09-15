@@ -370,12 +370,12 @@ const products = [
 
   {
     id: 27,
-    name: "Pack Surveillance Pro",
+    name: "Pack vidéosurveillance Dahua 2MP Couleur — 4 caméras",
     brand: "FirstBest Security",
     category: "Packs de Surveillance",
-    price: 3990,
-    oldPrice: 4490,
-    badge: "PRO",
+    price: 1300,
+    oldPrice: 1879,
+    badge: "",
     newest: true,
     image: "pack2.jpg",
     description: "Pack de surveillance complet avec solution adaptée aux besoins professionnels."
@@ -383,12 +383,12 @@ const products = [
 
   {
     id: 28,
-    name: "Pack Surveillance Premium",
+    name: "Pack Hikvision 2MP lentille 2,8  – 4 Caméras Turbo HD",
     brand: "FirstBest Security",
     category: "Packs de Surveillance",
-    price: 5490,
-    oldPrice: 5990,
-    badge: "PREMIUM",
+    price: 1300,
+    oldPrice: 1879,
+    badge: "",
     newest: true,
     image: "pack3.jpg",
     description: "Solution premium de sécurité et de surveillance pour les installations exigeantes."
@@ -396,17 +396,42 @@ const products = [
 
   {
     id: 29,
-    name: "Pack Surveillance Business",
+    name: "Pack Hikvision 3K lentille 2,8 – 4 Caméras",
     brand: "FirstBest Security",
     category: "Packs de Surveillance",
-    price: 7490,
-    oldPrice: 7990,
-    badge: "BUSINESS",
+    price: 1300,
+    oldPrice: 1879,
+    badge: "",
     newest: false,
     image: "pack4.jpg",
     description: "Solution complète pensée pour les commerces, bureaux et installations professionnelles."
   },
 
+     {
+    id: 46,
+    name: "Pack Caméra 3K Full Color lentille 3,6 – Image & Audio",
+    brand: "FirstBest Security",
+    category: "Packs de Surveillance",
+    price: 1300,
+    oldPrice: 1879,
+    badge: "",
+    newest: false,
+    image: "pack4.jpg",
+    description: "Solution complète pensée pour les commerces, bureaux et installations professionnelles."
+  },
+
+     {
+    id: 47,
+    name: "PACK DAHUA 5MP WIZSENSE ORIGINAL – COULEUR, IMAGE & AUDIO",
+    brand: "FirstBest Security",
+    category: "Packs de Surveillance",
+    price: 1300,
+    oldPrice: 1879,
+    badge: "BUSINESS",
+    newest: false,
+    image: "pack4.jpg",
+    description: "Solution complète pensée pour les commerces, bureaux et installations professionnelles."
+  },
 
   /* =========================
      CAMÉRAS
