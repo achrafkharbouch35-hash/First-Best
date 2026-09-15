@@ -296,7 +296,24 @@ const products = [
     oldPrice:2790,
     badge:"PACK",
     image:"pack1.jpg",
-    description:"Solution complète de surveillance pour sécuriser efficacement votre maison ou votre commerce."
+    description:description: `
+Pack complet de vidéosurveillance professionnel, comprenant tout le nécessaire pour réaliser une installation CCTV : enregistreur vidéo numérique Dahua HDCVI WizSense, 4 caméras Dahua 5MP HDCVI Smart Dual Light, alimentation centralisée WDLink 12V 24CH, câble coaxial WDLink RG59 + DC + Jacket de 100 mètres, câble HDMI 2.0 4K, disque dur Western Digital 500GB, ainsi que les connecteurs BNC et connecteurs d'alimentation DC.
+
+<br><br>
+
+<strong>📦 Contenu du pack :</strong>
+
+<br><br>
+
+🎥 4 × Caméras Dahua HDCVI <strong>5MP Smart Dual Light</strong><br>
+🖥️ 1 × Enregistreur vidéo Dahua <strong>HDCVI WizSense</strong><br>
+⚡ 1 × Alimentation <strong>WDLink 12V 24CH</strong><br>
+🔌 1 × Câble coaxial <strong>RG59 + DC + Jacket – 100M</strong><br>
+📺 1 × Câble <strong>HDMI 2.0 4K</strong><br>
+💾 1 × Disque dur <strong>WD 500GB</strong><br>
+🔩 Connecteurs <strong>BNC</strong><br>
+🔋 Connecteurs d'alimentation <strong>DC</strong>
+`
   },
 
   {
