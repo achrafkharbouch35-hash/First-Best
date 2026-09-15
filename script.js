@@ -357,11 +357,11 @@ const products = [
 
   {
     id: 26,
-    name: "Pack Surveillance Essentiel",
+    name: "Pack vidéosurveillance Dahua 5MP — 4 caméras",
     brand: "FirstBest Security",
     category: "Packs de Surveillance",
-    price: 2490,
-    oldPrice: 2790,
+    price: 1650,
+    oldPrice: 2279,
     badge: "PACK",
     newest: true,
     image: "pack1.jpg",
