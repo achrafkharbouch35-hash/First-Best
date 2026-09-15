@@ -308,7 +308,7 @@ Pack complet de vidéosurveillance professionnel, comprenant tout le nécessaire
 🎥 4 × Caméras Dahua HDCVI lentille 2,8 <strong>5MP Smart Dual Light</strong><br>
 🖥️ 1 × Enregistreur vidéo Dahua <strong>HDCVI WizSense</strong><br>
 ⚡ 1 × Alimentation <strong>WDLink 10A 12V 24CH</strong><br>
-🔌 1 × Câble coaxial <strong>RG45 1M + DC + Jacker RG59 – 20M</strong><br>
+🔌 1 × Câble coaxial <strong>RG45 1M + DC + Jacket RG59 – 20M</strong><br>
 📺 1 × Câble <strong>HDMI 2.0 4K 1,5M</strong><br>
 💾 1 × Disque dur <strong>WD 500GB</strong><br>
 🔩 Connecteurs <strong>BNC</strong><br>
@@ -337,7 +337,7 @@ Pack complet de vidéosurveillance professionnel, comprenant tout le nécessaire
 🎥 4 × Caméras Dahua HDCVI lentille 2,8 <strong>2MP Smart Dual Light</strong><br>
 🖥️ 1 × Enregistreur vidéo Dahua <strong>HDCVI WizSense</strong><br>
 ⚡ 1 × Alimentation <strong>WDLink 10A 12V 24CH</strong><br>
-🔌 1 × Câble coaxial <strong>RG45 1M + DC + Jacker RG59 – 20M</strong><br>
+🔌 1 × Câble coaxial <strong>RG45 1M + DC + Jacket RG59 – 20M</strong><br>
 📺 1 × Câble <strong>HDMI 2.0 4K 1,5M</strong><br>
 💾 1 × Disque dur <strong>WD 500GB</strong><br>
 🔩 Connecteurs <strong>BNC</strong><br>
@@ -394,7 +394,7 @@ Pack complet de vidéosurveillance professionnel, comprenant tout le nécessaire
 🎥 4 × Caméras <strong>3K Couleur</strong><br>
 🖥️ 1 × Enregistreur vidéo numérique <strong>3K</strong><br>
 ⚡ 1 × Alimentation centralisée <strong>10A 12V</strong><br>
-🔌 1 × Câble coaxial <strong>RG45 1M + DC + Jacke RG59 – 20M</strong><br>
+🔌 1 × Câble coaxial <strong>RG45 1M + DC + Jacket RG59 – 20M</strong><br>
 📺 1 × Câble <strong>HDMI 2.0 4K – 1,5M</strong><br>
 💾 1 × Disque dur <strong>500GB</strong><br>
 🔩 Connecteurs <strong>BNC</strong><br>
@@ -422,7 +422,7 @@ Pack complet de vidéosurveillance professionnel, comprenant tout le nécessaire
 🎥 4 × Caméras <strong>3K Couleur</strong><br>
 🖥️ 1 × Enregistreur vidéo numérique <strong>3K</strong><br>
 ⚡ 1 × Alimentation centralisée <strong> 10A 12V</strong><br>
-🔌 1 × Câble coaxial <strong>RG45 1M + DC + Jacke RG59 – 20M</strong><br>
+🔌 1 × Câble coaxial <strong>RG45 1M + DC + Jacket RG59 – 20M</strong><br>
 📺 1 × Câble <strong>HDMI 2.0 4K – 1,5M</strong><br>
 💾 1 × Disque dur <strong>500GB</strong><br>
 🔩 Connecteurs <strong>BNC</strong><br>
