@@ -472,7 +472,7 @@ const products = [
     oldPrice: 990,
     badge: "FULL HD",
     newest: false,
-    image: "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=900&q=85",
+    image: "",
     description: "Caméra IP Full HD pour une surveillance fiable et une visualisation claire."
   },
 
@@ -485,7 +485,7 @@ const products = [
     oldPrice: 1290,
     badge: "PTZ",
     newest: true,
-    image: "https://images.unsplash.com/photo-1563013544-824ae1b704d3?auto=format&fit=crop&w=900&q=85",
+    image: "",
     description: "Caméra motorisée connectée avec contrôle à distance."
   },
 
@@ -503,7 +503,7 @@ const products = [
     oldPrice: 3990,
     badge: "CITY",
     newest: true,
-    image: "https://images.unsplash.com/photo-1596727147705-61a532a659bd?auto=format&fit=crop&w=900&q=85",
+    image: "",
     description: "Trottinette électrique pratique pour les déplacements urbains quotidiens."
   },
 
@@ -516,7 +516,7 @@ const products = [
     oldPrice: 5490,
     badge: "PRO",
     newest: true,
-    image: "https://images.unsplash.com/photo-1558981806-ec527fa84c39?auto=format&fit=crop&w=900&q=85",
+    image: "",
     description: "Modèle performant destiné aux déplacements urbains réguliers."
   },
 
@@ -529,7 +529,7 @@ const products = [
     oldPrice: 4690,
     badge: "URBAN",
     newest: false,
-    image: "https://images.unsplash.com/photo-1600712242805-6f78671b24da?auto=format&fit=crop&w=900&q=85",
+    image: "",
     description: "Trottinette moderne avec design urbain et utilisation pratique."
   },
 
@@ -625,7 +625,7 @@ const products = [
     oldPrice: 179,
     badge: "NEW",
     newest: false,
-    image: "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?auto=format&fit=crop&w=900&q=85",
+    image: "",
     description: "Support pratique pour maintenir votre smartphone en toute sécurité."
   },
 
@@ -638,7 +638,7 @@ const products = [
     oldPrice: 399,
     badge: "USB",
     newest: true,
-    image: "https://images.unsplash.com/photo-1625842268584-8f3296236761?auto=format&fit=crop&w=900&q=85",
+    image: "",
     description: "Hub USB multiport pour connecter plusieurs périphériques."
   },
 
@@ -651,7 +651,7 @@ const products = [
     oldPrice: 249,
     badge: "HDMI",
     newest: false,
-    image: "https://images.unsplash.com/photo-1626379953827-baec19c3accd?auto=format&fit=crop&w=900&q=85",
+    image: "",
     description: "Adaptateur pratique pour connecter vos équipements vidéo."
   },
 
@@ -664,7 +664,7 @@ const products = [
     oldPrice: 219,
     badge: "128GB",
     newest: true,
-    image: "https://images.unsplash.com/photo-1598128558393-70ff21433be0?auto=format&fit=crop&w=900&q=85",
+    image: "",
     description: "Carte mémoire fiable pour smartphones, appareils photo et autres équipements."
   },
 
@@ -677,7 +677,7 @@ const products = [
     oldPrice: 179,
     badge: "POWER",
     newest: false,
-    image: "https://images.unsplash.com/photo-1621939514649-280e2aa3b9dc?auto=format&fit=crop&w=900&q=85",
+    image: "",
     description: "Batterie rechargeable destinée à différents appareils électroniques."
   }
 
