@@ -379,8 +379,8 @@ Pack complet de vidéosurveillance professionnel, comprenant tout le nécessaire
     name:"Pack Hikvision 3K lentille 2,8 – 4 Caméras",
     brand:"FirstBest Security",
     category:"Packs de Surveillance",
-    price:1300,
-    oldPrice:1800,
+    price:1700,
+    oldPrice:2100,
     badge:"",
     image:"pack4.jpg",
     description:`
@@ -408,8 +408,8 @@ Pack complet de vidéosurveillance professionnel avec technologie <strong>3K Cou
     name:"Pack Caméra 3K Full Color lentille 3,6 – Image & Audio",
     brand:"FirstBest Security",
     category:"Packs de Surveillance",
-    price:1300,
-    oldPrice:1800,
+    price:2400,
+    oldPrice:2779,
     badge:"BUSINESS",
     image:"pack5.jpg",
     description:`
