@@ -439,27 +439,27 @@ const products = [
 
   {
     id: 30,
-    name: "Caméra Wi-Fi Intérieure",
-    brand: "TP-Link",
+    name: "Pack de surveillance solaire — Sécurité & autonomie",
+    brand: "Multiscreen Camera",
     category: "Caméras de Surveillance",
-    price: 590,
-    oldPrice: 690,
-    badge: "Wi-Fi",
+    price: 1300,
+    oldPrice: 1500,
+    badge: "solaire",
     newest: true,
-    image: "https://images.unsplash.com/photo-1557324232-b8917d3c3dcb?auto=format&fit=crop&w=900&q=85",
-    description: "Caméra connectée destinée à la surveillance intérieure avec accès à distance."
+    image: "camera1.jpg",
+    description: "Caméra connectée destinée à la surveillance solaire."
   },
 
   {
     id: 31,
-    name: "Caméra Extérieure",
-    brand: "Hikvision",
+    name: "IMOU Dual Lens – Caméra Extérieure 24/7 avec Batterie + Panneau Solaire",
+    brand: "IMOU",
     category: "Caméras de Surveillance",
-    price: 790,
-    oldPrice: 890,
+    price: 1300,
+    oldPrice: 1500,
     badge: "OUTDOOR",
     newest: true,
-    image: "https://images.unsplash.com/photo-1580982327559-c1202864ebd9?auto=format&fit=crop&w=900&q=85",
+    image: "camera2.jpg",
     description: "Caméra de surveillance conçue pour une installation extérieure."
   },
 
