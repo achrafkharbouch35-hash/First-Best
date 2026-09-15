@@ -292,8 +292,8 @@ const products = [
     name:"Pack Surveillance Essentiel",
     brand:"FirstBest Security",
     category:"Packs de Surveillance",
-    price:2490,
-    oldPrice:2790,
+    price:1650,
+    oldPrice:2279,
     badge:"PACK",
     image:"pack1.jpg",
     description:`
@@ -307,9 +307,9 @@ Pack complet de vidéosurveillance professionnel, comprenant tout le nécessaire
 
 🎥 4 × Caméras Dahua HDCVI <strong>5MP Smart Dual Light</strong><br>
 🖥️ 1 × Enregistreur vidéo Dahua <strong>HDCVI WizSense</strong><br>
-⚡ 1 × Alimentation <strong>WDLink 12V 24CH</strong><br>
-🔌 1 × Câble coaxial <strong>RG59 + DC + Jacket – 100M</strong><br>
-📺 1 × Câble <strong>HDMI 2.0 4K</strong><br>
+⚡ 1 × Alimentation <strong>WDLink 10A 12V 24CH</strong><br>
+🔌 1 × Câble coaxial <strong>RG45 1M + DC + Jacket – 20M</strong><br>
+📺 1 × Câble <strong>HDMI 2.0 4K 1,5M</strong><br>
 💾 1 × Disque dur <strong>WD 500GB</strong><br>
 🔩 Connecteurs <strong>BNC</strong><br>
 🔋 Connecteurs d'alimentation <strong>DC</strong>
